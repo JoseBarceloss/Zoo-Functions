@@ -14,6 +14,13 @@
         "vars": "local",
         "varsIgnorePattern": "data|getOpeningHours|handlerElephants"
       }
+    ],
+    "no-restricted-syntax": [
+      "error",
+      {
+        "selector": "ForStatement, ForOfStatement, ForInStatement, WhileStatement",
+        "message": "Nesse projeto, utilize apenas HOF's: forEach, map, find, filter, etc."
+      }
     ]
   },
   "overrides": [
