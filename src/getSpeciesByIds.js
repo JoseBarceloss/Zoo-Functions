@@ -4,9 +4,9 @@ const getSpeciesByIds = (...ids) => {
   if (!ids.length) {
     return [];
   }
-  
+
   const species = data.species.filter((specie) => ids.includes(specie.id));
-  
+
   return species;
 };
 
