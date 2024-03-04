@@ -24,12 +24,6 @@ O Projeto Zoo-Function é uma aplicação desenvolvida em JavaScript que lida co
 - **Validação de Entrada de Dados:**
   - Implementação de funções para validar e verificar a integridade dos dados de entrada, como formato de horários e existência de funcionários.
 
-- **Documentação de Código:**
-  - Documentação adequada de funções e módulos para facilitar o entendimento do código por outros desenvolvedores, incluindo descrições claras de parâmetros, retornos e comportamento esperado.
-
-- **Testes Unitários (Opcional):**
-  - Inclusão de testes unitários para verificar a corretude das funções implementadas e garantir a robustez do código.
-
 ![Entrance to the Oakland Zoo](https://i.giphy.com/yFb5bKTItbB4dZ9xfd.webp)
 
-*Nota: Devido à carga horária intensa de estudos na Trybe, não foi possível incluir estilos CSS neste projeto.*
+*Nota: Devido à carga horária intensa de estudos na Trybe, não foi possível incluir estilos CSS neste projeto. Assim que possível, serão adicionados.*
